@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_3_-_copie" data-name="Calque 3 - copie" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4000 2500">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath-20);
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath-16);
+      }
+
+      .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4, .cls-6 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-11 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-21);
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-14 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-15 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-16 {
+        filter: url(#drop-shadow-2);
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-19);
+      }
+
+      .cls-20 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-21 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-22 {
+        clip-path: url(#clippath-18);
+      }
+
+      .cls-23 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-24 {
+        clip-path: url(#clippath-17);
+      }
+
+      .cls-25 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-26 {
+        clip-path: url(#clippath-10);
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="-3" dy="7"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".9"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clippath">
+      <rect class="cls-5" x="850" y="800" width="2300" height="900" rx="100" ry="100"/>
+    </clipPath>
+    <filter id="drop-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="-3" dy="7"/>
+      <feGaussianBlur result="blur-2" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".9"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clippath-1">
+      <rect class="cls-5" x="1356.99" y="462.67" width="600" height="300" rx="17" ry="17" transform="translate(-109.62 603.67) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-5" x="783.95" y="671.77" width="600" height="300" rx="17" ry="17" transform="translate(-215.69 420.29) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-5" x="2414.67" y="415.59" width="600" height="300" rx="17" ry="17" transform="translate(-29.73 962.58) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="cls-5" x="1841.63" y="624.69" width="600" height="300" rx="17" ry="17" transform="translate(-135.8 779.2) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="cls-5" x="1268.59" y="833.79" width="600" height="300" rx="17" ry="17" transform="translate(-241.88 595.82) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="cls-5" x="695.55" y="1042.89" width="600" height="300" rx="17" ry="17" transform="translate(-347.95 412.44) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect class="cls-5" x="2908.54" y="573.71" width="600" height="300" rx="17" ry="17" transform="translate(-54.02 1141.03) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="cls-5" x="2335.5" y="782.81" width="600" height="300" rx="17" ry="17" transform="translate(-160.1 957.65) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="cls-5" x="1762.46" y="991.91" width="600" height="300" rx="17" ry="17" transform="translate(-266.18 774.27) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="cls-5" x="1194.06" y="1199.77" width="600" height="300" rx="17" ry="17" transform="translate(-371.55 592.4) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect class="cls-5" x="616.37" y="1410.12" width="600" height="300" rx="17" ry="17" transform="translate(-478.33 407.5) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="cls-5" x="2829.36" y="940.94" width="600" height="300" rx="17" ry="17" transform="translate(-184.4 1136.09) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect class="cls-5" x="2256.32" y="1150.04" width="600" height="300" rx="17" ry="17" transform="translate(-290.47 952.71) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="cls-5" x="1683.28" y="1359.14" width="600" height="300" rx="17" ry="17" transform="translate(-396.55 769.33) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect class="cls-5" x="1110.24" y="1568.24" width="600" height="300" rx="17" ry="17" transform="translate(-502.62 585.95) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <rect class="cls-5" x="537.2" y="1777.34" width="600" height="300" rx="17" ry="17" transform="translate(-608.7 402.57) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <rect class="cls-5" x="2740.96" y="1312.05" width="600" height="300" rx="17" ry="17" transform="translate(-316.66 1128.24) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <rect class="cls-5" x="2167.92" y="1521.15" width="600" height="300" rx="17" ry="17" transform="translate(-422.73 944.86) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <rect class="cls-5" x="1594.88" y="1730.26" width="600" height="300" rx="17" ry="17" transform="translate(-528.81 761.48) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <rect class="cls-5" x="2661.78" y="1679.28" width="600" height="300" rx="17" ry="17" transform="translate(-447.03 1123.31) rotate(-20)"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <rect class="cls-5" x="2088.74" y="1888.38" width="600" height="300" rx="17" ry="17" transform="translate(-553.11 939.93) rotate(-20)"/>
+    </clipPath>
+    <image id="image" width="8000" height="4000" xlink:href="../../imgs/Input/tile elements/OK/C3_ersp_timecourses_V1_Page_1.png"/>
+  </defs>
+  <g class="cls-18">
+    <rect class="cls-6" x="581.5" y="377" width="2837" height="1746"/>
+    <g class="cls-16">
+      <rect class="cls-4" x="3076.12" y="-164.63" width="600" height="300" rx="17" ry="17" transform="translate(208.61 1153.82) rotate(-20)"/>
+      <rect class="cls-4" x="2503.08" y="44.47" width="600" height="300" rx="17" ry="17" transform="translate(102.53 970.43) rotate(-20)"/>
+      <rect class="cls-4" x="1930.03" y="253.57" width="600" height="300" rx="17" ry="17" transform="translate(-3.54 787.05) rotate(-20)"/>
+      <g class="cls-13">
+        <image width="3200" height="1600" transform="translate(1323.78 574.32) rotate(-20) scale(.19)" xlink:href="../../imgs/Input/tile elements/C3_ersp_timecourses_V2/C3_ersp_timecourses_V2-3.png"/>
+      </g>
+      <g class="cls-7">
+        <image width="8000" height="4000" transform="translate(750.74 783.43) rotate(-20) scale(.08)" xlink:href="../../imgs/Input/tile elements/OK/eeg_rereferenced.png"/>
+      </g>
+      <rect class="cls-4" x="210.91" y="880.88" width="600" height="300" rx="17" ry="17" transform="translate(-321.77 236.91) rotate(-20)"/>
+      <rect class="cls-4" x="-362.13" y="1089.98" width="600" height="300" rx="17" ry="17" transform="translate(-427.84 53.53) rotate(-20)"/>
+      <rect class="cls-4" x="3560.76" y="-2.62" width="600" height="300" rx="17" ry="17" transform="translate(182.42 1329.34) rotate(-20)"/>
+      <rect class="cls-4" x="2987.71" y="206.48" width="600" height="300" rx="17" ry="17" transform="translate(76.35 1145.96) rotate(-20)"/>
+      <g class="cls-20">
+        <image width="8000" height="4000" transform="translate(2381.46 527.24) rotate(-20) scale(.08)" xlink:href="../../imgs/Input/tile elements/OK/eeg_epoch_1_psd.png"/>
+      </g>
+      <g class="cls-14">
+        <image width="8000" height="4000" transform="translate(1808.42 736.34) rotate(-20) scale(.08)" xlink:href="../../imgs/Input/tile elements/OK/eeg_detrended.png"/>
+      </g>
+      <g class="cls-25">
+        <image width="3200" height="1600" transform="translate(1235.38 945.44) rotate(-20) scale(.19)" xlink:href="../../imgs/Input/tile elements/OK/C3_ersp_timecourses_V1-3.png"/>
+      </g>
+      <g class="cls-10">
+        <image width="8000" height="4000" transform="translate(662.34 1154.54) rotate(-20) scale(.08)" xlink:href="../../imgs/Input/tile elements/OK/accelerometer_norms.png"/>
+      </g>
+      <rect class="cls-4" x="122.51" y="1251.99" width="600" height="300" rx="17" ry="17" transform="translate(-454.03 229.06) rotate(-20)"/>
+      <rect class="cls-4" x="3481.58" y="364.61" width="600" height="300" rx="17" ry="17" transform="translate(52.05 1324.41) rotate(-20)"/>
+      <g class="cls-11">
+        <image width="3200" height="1600" transform="translate(2875.33 685.36) rotate(-20) scale(.19)" xlink:href="../../imgs/Input/tile elements/OK/C3_C4_solo_V2_Page_54.png"/>
+      </g>
+      <g class="cls-21">
+        <image width="8000" height="4000" transform="translate(2302.29 894.46) rotate(-20) scale(.08)" xlink:href="../../imgs/Input/tile elements/OK/accelerometer_enmo_positions.png"/>
+      </g>
+      <g class="cls-17">
+        <image width="3200" height="1600" transform="translate(1729.24 1103.57) rotate(-20) scale(.19)" xlink:href="../../imgs/Input/tile elements/OK/C4_ersp_timecourses_V2-6.png"/>
+      </g>
+      <g class="cls-26">
+        <image width="8000" height="4000" transform="translate(1160.85 1311.42) rotate(-20) scale(.08)" xlink:href="../../imgs/Input/tile elements/OK/accelerometer_en.png"/>
+      </g>
+      <g class="cls-2">
+        <use transform="translate(583.16 1521.77) rotate(-20) scale(.08)" xlink:href="#image"/>
+      </g>
+      <rect class="cls-4" x="43.33" y="1619.22" width="600" height="300" rx="17" ry="17" transform="translate(-584.4 224.12) rotate(-20)"/>
+      <rect class="cls-4" x="3402.4" y="731.83" width="600" height="300" rx="17" ry="17" transform="translate(-78.32 1319.48) rotate(-20)"/>
+      <g class="cls-15">
+        <use transform="translate(691 961) scale(.08)" xlink:href="#image"/>
+      </g>
+      <g class="cls-8">
+        <image width="8000" height="4000" transform="translate(2223.11 1261.69) rotate(-20) scale(.08)" xlink:href="../../imgs/Input/tile elements/OK/eeg_filtered.png"/>
+      </g>
+      <g class="cls-23">
+        <image width="8000" height="4000" transform="translate(1650.07 1470.79) rotate(-20) scale(.08)" xlink:href="../../imgs/Input/tile elements/OK/mouse_tangential_speeds.png"/>
+      </g>
+      <g class="cls-9">
+        <image width="8000" height="4000" transform="translate(1077.03 1679.89) rotate(-20) scale(.08)" xlink:href="../../imgs/Input/tile elements/OK/mouse_positions_xy.png"/>
+      </g>
+      <g class="cls-3">
+        <image width="3200" height="1600" transform="translate(503.98 1889) rotate(-20) scale(.19)" xlink:href="../../imgs/Input/tile elements/OK/C4_ersp_timecourses_V2-5.png"/>
+      </g>
+      <rect class="cls-4" x="-35.85" y="1986.44" width="600" height="300" rx="17" ry="17" transform="translate(-714.78 219.19) rotate(-20)"/>
+      <rect class="cls-4" x="3887.04" y="893.85" width="600" height="300" rx="17" ry="17" transform="translate(-104.51 1495) rotate(-20)"/>
+      <rect class="cls-4" x="3314" y="1102.95" width="600" height="300" rx="17" ry="17" transform="translate(-210.58 1311.62) rotate(-20)"/>
+      <g class="cls-24">
+        <image width="3200" height="1600" transform="translate(2707.75 1423.7) rotate(-20) scale(.19)" xlink:href="../../imgs/Input/tile elements/C4_ersp_timecourses_V2/C4_ersp_timecourses_V2-3.png"/>
+      </g>
+      <g class="cls-22">
+        <image width="8000" height="4000" transform="translate(2134.71 1632.81) rotate(-20) scale(.08)" xlink:href="../../imgs/Input/tile elements/OK/accelerometer_enmo.png"/>
+      </g>
+      <g class="cls-19">
+        <image width="3200" height="1600" transform="translate(1561.67 1841.91) rotate(-20) scale(.19)" xlink:href="../../imgs/Input/tile elements/OK/C3_C4_solo_V2_Page_06.png"/>
+      </g>
+      <rect class="cls-4" x="1021.84" y="1939.36" width="600" height="300" rx="17" ry="17" transform="translate(-634.88 578.1) rotate(-20)"/>
+      <rect class="cls-4" x="448.79" y="2148.46" width="600" height="300" rx="17" ry="17" transform="translate(-740.96 394.72) rotate(-20)"/>
+      <rect class="cls-4" x="3807.87" y="1261.07" width="600" height="300" rx="17" ry="17" transform="translate(-234.88 1490.07) rotate(-20)"/>
+      <rect class="cls-4" x="3234.83" y="1470.18" width="600" height="300" rx="17" ry="17" transform="translate(-340.96 1306.69) rotate(-20)"/>
+      <g class="cls-1">
+        <image width="3200" height="1600" transform="translate(2628.57 1790.93) rotate(-20) scale(.19)" xlink:href="../../imgs/Input/tile elements/OK/C3_ersp_timecourses_V1-2.png"/>
+      </g>
+      <g class="cls-12">
+        <image width="8000" height="4000" transform="translate(2055.53 2000.03) rotate(-20) scale(.08)" xlink:href="../../imgs/Input/tile elements/OK/eeg_epoch_1.png"/>
+      </g>
+      <rect class="cls-4" x="1515.7" y="2097.48" width="600" height="300" rx="17" ry="17" transform="translate(-659.18 756.54) rotate(-20)"/>
+      <rect class="cls-4" x="942.66" y="2306.58" width="600" height="300" rx="17" ry="17" transform="translate(-765.26 573.16) rotate(-20)"/>
+      <rect class="cls-4" x="369.62" y="2515.69" width="600" height="300" rx="17" ry="17" transform="translate(-871.33 389.78) rotate(-20)"/>
+    </g>
+  </g>
+</svg>
